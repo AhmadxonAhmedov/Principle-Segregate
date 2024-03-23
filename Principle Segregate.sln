@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Principle Segregate", "Principle Segregate\Principle Segregate.csproj", "{3BC40A83-1DEB-4BE6-9AF4-BB8A298D5B4F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BC40A83-1DEB-4BE6-9AF4-BB8A298D5B4F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BC40A83-1DEB-4BE6-9AF4-BB8A298D5B4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BC40A83-1DEB-4BE6-9AF4-BB8A298D5B4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BC40A83-1DEB-4BE6-9AF4-BB8A298D5B4F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A741F3C-8A74-40B2-86B1-65643981225B}
+	EndGlobalSection
+EndGlobal
